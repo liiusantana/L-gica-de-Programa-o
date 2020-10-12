@@ -1,6 +1,7 @@
 
 number = 0  
 
+
 puts 'Enter a number: '
 number = STDIN.gets.to_i
 
